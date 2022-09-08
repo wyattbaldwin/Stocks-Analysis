@@ -222,9 +222,9 @@ Sub AllStocksAnalysisRefactored()
 
 4. With this quick reorganization and removal of redundancies, we are able to run the code much faster than the original one. 2017 data now runs at 0.1640625 seconds and 2018 data, at 0.132815 seconds (pictured below). In addition, the refactored code is suitable to use with a larger dataset as it does not contain hard coded numbers. It relies on variables that can be modified upfront should the source data change. 
 
-![Refactored 2017 Analysis](/Resources/VBA_Challenge_2017.png)
+![Refactored 2017 Analysis](/VBA_Challenge_2017.png)
 
-![Refactored 2018 Analysis](/Resources/VBA_Challenge_2018.png)
+![Refactored 2018 Analysis](/VBA_Challenge_2018.png)
 
 ---
 ## Summary
