@@ -1,4 +1,4 @@
-# stock-analysis
+# Optimizing Stock Data Analysis Macro for Steve's Investment Decisions
 
 ## Overview of Project
 
@@ -224,7 +224,6 @@ Sub AllStocksAnalysisRefactored()
 
 ![Refactored 2018 Analysis](/VBA_Challenge_2018.png)
 
----
 ## Summary
 
 Refactoring code helps make the code run faster by simplifying it and making it easier to read/understand for future use. It also helps with the macro's continuity and longevity as it allows it to become more flexible. It can however be very time-consuming to complete, especially when the code is long and complicated. It can also be risky, especially when unfamiliar with the data and the purpose of the code. By modifying the code, we may break it beyond repair. It is always best to have clear lines of communication with the client to understand the data, the code, and their intended purpose when refactoring.
