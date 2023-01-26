@@ -4,12 +4,10 @@
 
 The client, Steve, prepared a workbook with a macro enabling him to quickly analyze stock data that he has collected. Specifically, it calculates the total daily volumes for different tickers he is following and their corresponding returns. This allows him to make informed decisions when investing. He would like to continue adding on to this data, potentially even adding new tickers in the future. However, he is concerned that in the long run, the analysis will take too long. He would like us to enhance the code he has already written so that it runs faster, smoother, and for a larger dataset.
 
----
 ## Purpose
 
 To refactor the client's macro enabling it to run faster and more efficiently for a larger dataset.
 
----
 ## Analysis and Challenges
 
 The spreadsheet provided: [Stock Analysis](VBA_Challenge.xlsm)
